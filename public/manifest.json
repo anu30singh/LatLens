@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LatLens",
+  "version": "1.0.0",
+  "description": "Geospatial coordinate conversion tool",
+
+  "permissions": ["storage"],
+
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "LatLens"
+  }
+}
