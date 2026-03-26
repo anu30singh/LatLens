@@ -17,7 +17,10 @@ LatLens is a Chrome extension for converting geospatial coordinates between Deci
 ## Target Users
 - Developers working with location data  
 - GIS / mapping enthusiasts  
-- Students learning geospatial concepts  
+- Students learning geospatial concepts
+
+  <img width="440" height="476" alt="{0C11AC98-B751-4BF9-AE91-08535B8F9153}" src="https://github.com/user-attachments/assets/2dfe7b74-88ec-4d5e-bb12-ba9ac4458e31" />
+
 
 ## Tech Stack
 - React (Vite)
